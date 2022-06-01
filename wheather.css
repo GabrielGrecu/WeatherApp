@@ -1,0 +1,17 @@
+:root{
+    font-size: 16px;
+}
+
+body{
+    margin: 8rem;
+    background-color: #1d1942;
+    color: #fff;
+}
+.form-select{
+    font-size: 1.2rem;
+    text-align: center;
+}
+.city-weather{
+    margin-top: 12rem;
+    text-align: center;
+}
